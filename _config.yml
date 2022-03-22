@@ -2,3 +2,5 @@ title: DoKa Workspace
 description: Cool Projects and geek Stuff.
 show_downloads: false
 google_analytics:
+theme: jekyll-theme-hacker
+
